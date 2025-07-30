@@ -28,7 +28,7 @@
 
             display-name = "Base";
             sensor-bindings =
-                <&inc_dec_kp C_AC_DESKTOP_SHOW_ALL_WINDOWS C_AC_DESKTOP_SHOW_ALL_WINDOWS>,
+                <&enc_vol>,
                 <&enc_vol>,
                 <&enc_vol>,
                 <&enc_vol>,
