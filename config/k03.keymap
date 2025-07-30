@@ -41,7 +41,7 @@
                 <&enc_vol>,
                 <&inc_dec_kp LG(RIGHT_BRACE) LG(LEFT_BRACE)>,
                 <&enc_vol>,
-                <&inc_dec_kp LG(LEFT_BRACE) LG(RIGHT_BRACE)>,
+                <&inc_dec_kp LG(RIGHT_BRACE) LG(LEFT_BRACE)>,
                 <&enc_vol>;
         };
 
