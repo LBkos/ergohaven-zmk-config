@@ -39,9 +39,9 @@
             sensor-bindings =
                 <&inc_dec_kp LG(LEFT_BRACE) LG(RIGHT_BRACE)>,
                 <&enc_vol>,
+                <&inc_dec_kp LG(LEFT_BRACE) LG(RIGHT_BRACE)>,
                 <&enc_vol>,
-                <&enc_vol>,
-                <&enc_vol>,
+                <&inc_dec_kp LG(LEFT_BRACE) LG(RIGHT_BRACE)>,
                 <&enc_vol>;
         };
 
