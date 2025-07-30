@@ -37,7 +37,7 @@
 
             display-name = "Base";
             sensor-bindings =
-                <&inc_dec_kp C_BRIGHTNESS_INC C_BRIGHTNESS_DEC>,
+                <&inc_dec_kp LG(LEFT_BRACE) LG(RIGHT_BRACE)>,
                 <&enc_vol>,
                 <&enc_vol>,
                 <&enc_vol>,
